@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="592" startPos="482" endPos="482" selMode="0" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\Users\user\Desktop\p5\empty-example\index.html" backupFilePath="" originalFileLastModifTimestamp="1650225621" originalFileLastModifTimestampHigh="30742442" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="773995875" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="76" xOffset="0" scrollWidth="1096" startPos="4130" endPos="0" selMode="0" lang="JavaScript" encoding="-1" userReadOnly="no" filename="C:\Users\user\Desktop\p5\empty-example\sketch.js" backupFilePath="" originalFileLastModifTimestamp="1107456387" originalFileLastModifTimestampHigh="30742447" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="11" xOffset="0" scrollWidth="600" startPos="774" endPos="774" selMode="0" lang="JavaScript" encoding="-1" userReadOnly="no" filename="C:\Users\user\Desktop\p5\empty-example\autoSavedLogic.js" backupFilePath="" originalFileLastModifTimestamp="677330147" originalFileLastModifTimestampHigh="30742448" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-60318102" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
